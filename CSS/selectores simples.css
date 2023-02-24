@@ -1,0 +1,14 @@
+
+p {
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+}
+#id {
+    text-align: center;
+    color: red;
+   }
+   .center {
+    text-align: right;
+    color: royalblue;
+   }
+      
