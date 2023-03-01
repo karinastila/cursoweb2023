@@ -1,0 +1,32 @@
+h1::before {
+    content: "Prefijo -" ;
+    background-color: khaki;
+}
+h2::before {
+    content: "PrefijoH2 -" ;
+    background-color: rgb(228, 205, 4);
+}
+h3::after {
+    content: "- Sufijo" ;
+    background-color: rgb(228, 4, 4);
+}
+p::first-letter {
+    font-size: 200%;
+    color: #e22b53;
+   }
+   
+#primerparrafo::first-line {color: #00d5ff;
+        font-size: x-large;
+        font-style: oblique;
+        font-family: Arial, Helvetica, sans-serif;     
+}
+::marker {color: rgb(0, 255, 110); font-size: 23px;}
+
+#div1 *::selection {
+    color: white;
+    background: blue;
+}
+/* .classdiv1::selection {
+    color: red;
+    background: yellow;
+}  OPCIONAL y VÁLIDO*/ 
