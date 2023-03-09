@@ -1,0 +1,11 @@
+h1 {
+    color: rgb(49, 40, 40);
+    text-align: center;
+    }
+    h2 { font-size: medium;
+        font-style: italic;
+     }
+        p {
+        background-color: burlywood;
+     font-size: 20px;
+         }
